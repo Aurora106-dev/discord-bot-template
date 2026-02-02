@@ -1,4 +1,4 @@
-﻿# Axi Anti Nuke Discord Bot (C#)
+# Discord Bot Template (C#)
 
 Simple Discord.Net bot with both slash commands and normal prefix commands.
 
